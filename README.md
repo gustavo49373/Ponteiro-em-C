@@ -1,5 +1,7 @@
 # Ponteiro-em-C
 questões de ponteiros resolvidos :)
+
+
 #include <stdio.h>
 #include <locale.h>
 
